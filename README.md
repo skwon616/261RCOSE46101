@@ -1,7 +1,5 @@
 # Retrieval-Augmented Post-Correction for Domain-Specific ASR in Air Traffic Control
 
-Course project for 261R Natural Language Processing (Korea University, Spring 2026).
-
 This repository implements a Retrieval-Augmented Generation (RAG) framework
 that corrects domain-specific errors in Air Traffic Control (ATC) ASR transcripts
 without retraining the ASR model.
@@ -98,7 +96,3 @@ Use nbviewer: https://nbviewer.org/github/skwon616/261RCOSE46101/blob/main/noteb
 
 [ATCO2 Corpus](https://www.atco2.org/) — Zuluaga-Gomez et al., 2022.
 Raw audio and XML annotations are not included in this repository.
-
-## Course
-
-261R Natural Language Processing (Korea University, Spring 2026)
