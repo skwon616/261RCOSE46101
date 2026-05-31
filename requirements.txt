@@ -1,0 +1,24 @@
+# ASR
+torch
+torchaudio
+transformers
+soundfile
+
+# Vector search
+faiss-cpu
+sentence-transformers
+
+# LLM backends (choose one)
+groq
+google-generativeai
+
+# Evaluation
+jiwer
+editdistance
+
+# Data processing
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
