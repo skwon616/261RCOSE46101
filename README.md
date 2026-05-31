@@ -1,6 +1,6 @@
 # Beyond WER: RAG-based Semantic Post-Correction for ATC ASR
 
-Course project for 261R Natural Language Processing (Seoul National University, Spring 2026).
+Course project for 261R Natural Language Processing (Korea University, Spring 2026).
 
 This repository implements a Retrieval-Augmented Generation (RAG) framework
 that corrects domain-specific errors in Air Traffic Control (ATC) ASR transcripts
@@ -101,4 +101,4 @@ Raw audio and XML annotations are not included in this repository.
 
 ## Course
 
-261R Natural Language Processing (Seoul National University, Spring 2026)
+261R Natural Language Processing (Korea University, Spring 2026)
