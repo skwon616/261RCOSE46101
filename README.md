@@ -1,4 +1,4 @@
-# Beyond WER: RAG-based Semantic Post-Correction for ATC ASR
+# Retrieval-Augmented Post-Correction for Domain-Specific ASR in Air Traffic Control
 
 Course project for 261R Natural Language Processing (Korea University, Spring 2026).
 
