@@ -61,6 +61,7 @@ export GEMINI_API_KEY=your_key    # https://aistudio.google.com (free)
 ```
 
 4. Download the ATCO2 corpus from https://www.atco2.org and place the `.tgz` file in `data/`
+* Please refer to https://github.com/idiap/atco2-corpus for notation and operational environment of ATCO2 corpus
 
 ## Execution Order
 
