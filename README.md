@@ -88,11 +88,6 @@ Overall WER increase is attributed to LLM over-correction on non-OOV tokens.
 > Note: Due to API token constraints, evaluation was performed on 60 utterances
 > (~11% of the full ATCO2 test set). Full-scale evaluation is left for future work.
 
-## View Notebooks
-
-GitHub preview may fail for large notebooks.
-Use nbviewer: https://nbviewer.org/github/skwon616/261RCOSE46101/blob/main/notebooks/01_RAG_pipeline.ipynb
-
 ## Dataset
 
 [ATCO2 Corpus](https://www.atco2.org/) — Zuluaga-Gomez et al., 2022.
